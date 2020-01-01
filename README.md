@@ -1,2 +1,3 @@
 # kakao-clone
- Nomadcoder academy
+
+Kakao Desktop Clone
